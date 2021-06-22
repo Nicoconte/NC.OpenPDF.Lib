@@ -3,6 +3,8 @@ from uuid import uuid4
 
 from PIL import Image
 
+from PyPDF2 import PdfFileReader, PdfFileWriter
+
 class OpenPDF:
 
     def __init__(self, output_dir="") -> None:
