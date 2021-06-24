@@ -1,4 +1,7 @@
-test/
 docs/
+pdf/
+storage/
+images/
+__pycache__/
 Pipfile
 Pipfile.lock
